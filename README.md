@@ -7,9 +7,9 @@ A point-of-sale system for butcheries built with PHP and MySQL.
 - User authentication and roles  
 
 ## Installation  
-1.Install xampp
-2.Run apache and MySQL
-2.Copy downloaded files and extract to c:\xampp\htdocs
+1.Install xampp \n
+2.Run apache and MySQL \n
+2.Copy downloaded files and extract to c:\xampp\htdocs \n
 3.Open project on browser for example type URL http://localhost/butchery system/
 
    ```sh
